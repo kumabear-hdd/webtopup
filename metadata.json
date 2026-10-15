@@ -1,0 +1,8 @@
+{
+  "name": "Kumagemu",
+  "description": "Power Up. Play More. Platform top up game Indonesia resmi, cepat, dan aman dengan integrasi otomatis supplier Digiflazz dan payment gateway terpercaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
